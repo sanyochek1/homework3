@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6E2E01CD-06F0-45A7-B1AD-ACC1EA93DA85}</ProjectGuid>
+    <ProjectGuid>{49144688-5FD9-44A5-8BF7-714CA5201D45}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>homework3</RootNamespace>
-    <AssemblyName>homework3</AssemblyName>
+    <RootNamespace>homework3_lab</RootNamespace>
+    <AssemblyName>homework3_lab</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -21,7 +21,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>5</WarningLevel>
+    <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
